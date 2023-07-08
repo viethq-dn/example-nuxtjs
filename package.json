@@ -34,7 +34,7 @@
     "nodemon": "^1.18.9",
     "prettier": "^1.18.2",
     "sass-loader": "^8.0.0",
-    "stylelint": "^9.10.1",
+    "stylelint": "^15.10.1",
     "stylelint-config-property-sort-order-smacss": "^4.0.2",
     "stylelint-config-standard": "^18.2.0",
     "stylelint-webpack-plugin": "^0.10.5",
